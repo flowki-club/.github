@@ -3,7 +3,7 @@
 Das deutsche Magazin und die Community für KI-Macher — mit einem klaren Fokus auf **KI-Pentesting**, einer Nische mit wenig deutschsprachiger Konkurrenz.
 
 - 🌐 **Magazin & Community:** [flowki-club.de](https://flowki-club.de)
-- 💬 **Discord:** [discord.gg/flowki-club](https://discord.gg/flowki-club)
+- 💬 **Discord:** [discord.gg/zbnPpsf7cc](https://discord.gg/zbnPpsf7cc)
 - 🐦 **X:** [@Flowkiclub](https://x.com/Flowkiclub)
 - 📸 **Instagram:** [@flowkiclub](https://www.instagram.com/flowkiclub)
 
